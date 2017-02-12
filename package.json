@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/AndrewKarpov/test/issues"
   },
-  "homepage": "https://github.com/AndrewKarpov/test#readme"
+  "homepage": "https://github.com/AndrewKarpov/test#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "webpack": "^2.2.1"
+  }
 }
